@@ -1,0 +1,14 @@
+BWHz​=bw×Fs/2
+
+flow​=f0​−BWHz/2​​,fhigh​=f0​+BWHz/2
+
+Therefor 
+
+Flow=f(1-1/Q)
+
+Fhigh=f(1+1/Q)
+
+​​
+
+​​
+

@@ -1,0 +1,4 @@
+cd D:/rnD_naveen_sir    
+git add .                 
+git commit -m "Updated analysis file"  
+git push                 
